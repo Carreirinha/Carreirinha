@@ -1,7 +1,8 @@
 ## Rafael Carreira Cavalcante
 
-### Sobre mim
-Entrei na turma de 2023/2024 da Apple Developer Academy | Mackenzie, onde durante 2 anos aprendi sobre o mundo do desenvolvimento iOS. Na faculdade já tive contato com o desenvolvimento, porém nada como a academy, onde aprendi não apenas sobre código mas também sobre colaboração e trabalho em equipe. Na academy me desenvolvi como programador Swift tendo diversos aplicativos desenvolvidos onde 3 deles estão na AppStore, 1 foi escolhido como vencedor do Swift Student Challenge 2024 e outros que agregaram muito no aprendizado, a programação foi feita utilizando SwiftUI, UIKit, SceneKit e SpriteKit, sendo desenvolvidos para diferentes plataformas, sendo elas iOS e iPadOS.
+### 🍎 Sobre mim
+Entrei na turma de 2023/2024 da Apple Developer Academy | Mackenzie, onde durante 2 anos aprendi sobre o mundo do desenvolvimento iOS. Na faculdade já tive contato com o desenvolvimento, onde aprendi não apenas sobre código mas também sobre colaboração e trabalho em equipe. Também me desenvolvi como programador Swift tendo diversos aplicativos desenvolvidos onde 3 deles estão na AppStore, 1 foi escolhido como vencedor do Swift Student Challenge 2024 e outros que agregaram muito no aprendizado.
+Dentro dos projetos a programação foi feita utilizando SwiftUI, UIKit, SceneKit e SpriteKit, sendo desenvolvidos para diferentes plataformas, sendo elas iOS e iPadOS.
 
 
 
