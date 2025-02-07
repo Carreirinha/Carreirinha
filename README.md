@@ -1,13 +1,13 @@
-# Portifólio de Rafael Carreira Cavalcante
+# Portfólio  de Rafael Carreira Cavalcante
 
 ## ⚡ Sobre mim
 - Desenvolvedor iOS, ex-aluno da Apple Developer Academy | Mackenzie!
 - Apaixonado por programação, tecnologia e acessibilidade!
-- Interesse em gameficação e em explorar coisas novas!
+- Interesse em gamificação e em explorar coisas novas!
 
 ## 📱 Contatos
 - Email: carreirarafael3@gmail.com
-- LinkedIn: [Meu LindekIn](https://www.linkedin.com/in/rafaelcarreiracavalcante)
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/rafaelcarreiracavalcante)
 - Telefone: +55 11 959802552
 
 ## 🧠 Experiencias e Habilidades
