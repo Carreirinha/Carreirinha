@@ -50,3 +50,56 @@
 ## 🏆 Premiação
 - Swift Student Challenge 2024: Enviei um projeto em SwiftUI e SceneKit que conta a história de um astronauta que estava em sua missão de levar as sementes mais conhecidas do Brasil para Marte, pois a Terra estava quase inabitável, porem um cometa colide com a sua espaçonave e ele vai para em um buraco negro onde ele acaba em uma ilha e precisa sobreviver lá apenas utilizando as sementes do Brasil. Fui premiado com um certificado oficial da Apple!
 
+
+# Rafael's Portfolio
+
+## ⚡ About Me
+- iOS Developer, former student at Apple Developer Academy | Mackenzie!
+- Passionate about programming, technology, and accessibility!
+- Interested in gamification and exploring new things!
+
+## 📱 Contacts
+- Email: carreirarafael3@gmail.com
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/rafaelcarreiracavalcante)
+- Phone: +55 11 959802552
+
+## 🧠 Experience and Skills
+- Language: Swift
+- Frameworks: SwiftUI, UIKit, SpriteKit, SceneKit, AVFoundation, CoreData, SwiftData, GameCenter.
+- Tools: Xcode, Git, Figma.
+
+## 🌐 Developed Projects
+
+### Tale of a Requiem - A rhythmic-narrative game
+- Description: A complete game for those who love a good story and great music, developed entirely in SpriteKit. The game tells the story of Lena, a pianist who lost her mother and needs to replace her in a prestigious music recital.
+- Technologies: Swift, SpriteKit, AVFoundation, CoreData.
+- Development Time: 6 months
+- App Store Link: [Tale of a Requiem](https://apps.apple.com/br/app/tale-of-a-requiem/id6670218881)
+---
+### Sapear - Learn new sounds and words
+- Description: An app developed in SwiftUI to teach sounds and words to children who have recently received a cochlear implant and are hearing again or for the first time.
+- Technologies: Swift, SwiftUI, AVFoundation, CoreData.
+- Development Time: 2 months
+- App Store Link: [Sapear](https://apps.apple.com/br/app/sapear/id6469643419)
+---
+### Solos Recorder
+- Description: An app developed entirely in UIKit to record guitar solos and convert them into tablature.
+- Technologies: Swift, UIKit, AVFoundation.
+- Development Time: 1 month
+- App Store Link: [Solos Recorder](https://apps.apple.com/br/app/solos-recorder/id6503363392)
+---
+### Falling Math
+- Description: An interactive game developed in SwiftUI and SpriteKit that challenges your knowledge of basic math operations.
+- Technologies: Swift, UIKit, AVFoundation, SwiftData.
+- Development Time: 2 months
+- Objective: Reinforce knowledge of basic operations in a fun way.
+---
+### SpotEat
+- Description: A multiplayer game developed in SwiftUI and SpriteKit, using GameCenter for local multiplayer connection. It encourages social interaction at gatherings with friends, making the experience fun and engaging on iPhones or iPads.
+- Technologies: Swift, SwiftUI, SpriteKit, GameCenter, AVFoundation, CoreData.
+- Development Time: 1 month
+- Objective: Promotes real-world social interaction with local matches and multiplayer engagement.
+
+## 🏆 Award
+- Swift Student Challenge 2024: I submitted a project in SwiftUI and SceneKit that tells the story of an astronaut on a mission to take Brazil's most well-known seeds to Mars, as Earth was becoming nearly uninhabitable. However, a comet collides with his spaceship, and he ends up in a black hole, landing on an island where he must survive using only Brazil's seeds. I was awarded an official Apple certificate!
+
